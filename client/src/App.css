@@ -877,6 +877,7 @@
     font-size: 18px;
     color: #2c2c30;
     margin-right: 8px;
+    font-weight: 900;
   }
   
   .team-channel-header__name-wrapper {
@@ -1717,6 +1718,10 @@
   .team-channerl-header_menu-icon {
     display: none;
   }
+
+  .str-chat__message-team-action{
+    z-index: 0;
+  }
   
   .channerl-list__container-toggle {
     display: none;
@@ -1774,6 +1779,7 @@
       font-size: 10px;
       margin: 5px;
       text-align: center;
+      font-weight: 600;
     }
   
     .team-channel-header__right {

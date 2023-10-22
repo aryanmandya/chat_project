@@ -92,6 +92,7 @@
     transition: all 150ms ease-in-out 0s;
     width: 85%;
     background: #fff;
+    color: #000;
   }
   
   .auth__form-container_fields-content_input input::placeholder {

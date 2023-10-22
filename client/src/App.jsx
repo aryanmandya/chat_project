@@ -7,7 +7,7 @@ import { ChannelListContainer, ChannelContainer, Auth } from './components';
 
 import 'stream-chat-react/dist/css/index.css';
 import './App.css';
-import Circle from './components/circle';
+import Circle from './components/Circle';
 
 
 const cookies = new Cookies();

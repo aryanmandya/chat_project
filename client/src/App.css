@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #005fff;
+    --primary-color: #0077BECC;
     --primary-color-alpha: #005fff1a;
   }
   
@@ -408,6 +408,7 @@
     flex-direction: column;
     background: var(--primary-color);
     width: 240px;
+    /* background-color: #0077BECC; */
   }
   
   .icon1__inner {
@@ -1720,7 +1721,7 @@
   }
 
   .str-chat__message-team-action{
-    z-index: 0;
+    z-index: -1;
   }
   
   .channerl-list__container-toggle {
@@ -1793,6 +1794,7 @@
   
     .channel-list__list__wrapper {
       width: 100%;
+   
     }
   
     .channerl-list__container-toggle {

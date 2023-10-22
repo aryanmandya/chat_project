@@ -10,10 +10,10 @@ The Chat Web App is a real-time communication platform designed to facilitate se
 - Real-time chat functionality: Instantly exchange messages with other users in real time. (https://drive.google.com/file/d/18iqfz8N-kNxKeLkOIf4dqzDa3W8u7-Ni/view?usp=sharing)
 - User authentication and registration: Securely log in and authenticate users to ensure data privacy.
 - Emoji support: Add some fun to your conversations with emojis
-- Group chat support: Create and join group conversations with multiple participants. we can creat group by creating channel and invite friends
+- Group chat support: Create and join group conversations with multiple participants. we can creat group by creating channel and invite friends (https://drive.google.com/file/d/1SkUDPdapBA1uHQ49yQ-KLCrW8X-bocFy/view?usp=sharing)
 - Individual chat support: we can chat individually with friends 
 - File sharing: we can share files,images by clicking image button 
-- we can pin message, delete message and edit message (https://drive.google.com/file/d/1VOKQaESu1oQRS2fOGBPiDdnbjbZhp_kM/view?usp=sharing)
+- we can pin message, delete message and edit message by clicking on the message there will will be three dots you can find these options by these dots (https://drive.google.com/file/d/1VOKQaESu1oQRS2fOGBPiDdnbjbZhp_kM/view?usp=sharing)
 - Thread feature:  if you will go click any message there will be a arrow by clicking it thread will open (https://drive.google.com/file/d/1eSym6DtQCmwIKjEvGojDmNTMibpbOYuV/view?usp=sharing)
 - chat bot that can answer some specific queation by clicking ont this icon https://drive.google.com/file/d/1-HrwYiltpi88ZXe0tQcDlx3XYrM4w3l6/view?usp=sharing you will find chat bot.
 

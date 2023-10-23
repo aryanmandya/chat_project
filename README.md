@@ -41,3 +41,6 @@ drive link - https://drive.google.com/file/d/1NwSMCk0L7HfDNUmJJhAoC32Al0gzTCUj/v
 
 ## system design document
 you can access system design document from https://drive.google.com/file/d/1fH2KFXQ4QBDDQKrjN23_19FhWJ5CQy0T/view?usp=sharing
+
+## hosted website link
+link- https://chat-app-by-aryan.netlify.app/

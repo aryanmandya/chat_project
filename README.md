@@ -8,7 +8,7 @@ The Chat Web App is a real-time communication platform designed to facilitate se
 
 ## Features
 - Real-time chat functionality: Instantly exchange messages with other users in real time. (https://drive.google.com/file/d/18iqfz8N-kNxKeLkOIf4dqzDa3W8u7-Ni/view?usp=sharing)
-- User authentication and registration: Securely log in and authenticate users to ensure data privacy.
+- User authentication and registration: Securely log in and authenticate users to ensure data privacy. if you are new user then firstly you have to sign up and if you made account already then go to sign in and put your username and password.
 - Emoji support: Add some fun to your conversations with emojis
 - Group chat support: Create and join group conversations with multiple participants. we can creat group by creating channel and invite friends (https://drive.google.com/file/d/1SkUDPdapBA1uHQ49yQ-KLCrW8X-bocFy/view?usp=sharing)
 - Individual chat support: we can chat individually with friends 
